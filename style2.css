@@ -1,0 +1,9 @@
+#guide-icon.ytd-masthead { display:none !important; }
+#endpoint.yt-simple-endpoint.style-scope.ytd-mini-guide-entry-renderer { display:none !important; }
+.ytd-guide-renderer { display:none !important; }
+.ytd-rich-grid-renderer,
+.ytd-mealbar-promo-renderer
+{
+	display:none !important;
+}
+#related.style-scope.ytd-watch-flexy { display:none !important; }
