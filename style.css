@@ -9,3 +9,14 @@
 .ytd-rich-grid-renderer {
   display: none !important;
 }
+
+#secondary.ytd-watch-flexy {
+  background-color: red;
+  display: none !important;
+}
+
+ytd-reel-shelf-renderer {
+  background-color: red;
+  display: none !important;
+  flex-direction: column;
+}
